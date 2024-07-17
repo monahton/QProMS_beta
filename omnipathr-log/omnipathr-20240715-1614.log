@@ -1,0 +1,12 @@
+[2024-07-15 16:14:55] [INFO]    [OmnipathR] Welcome to OmnipathR!
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] Reading JSON from `/Users/aboualezz.monah/Library/Caches/OmnipathR/cache.json` (encoding: UTF-8).
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-07-15 16:14:55] [INFO]    [OmnipathR] Initialized cache: `/Users/aboualezz.monah/Library/Caches/OmnipathR`.
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] Reading JSON from `/Users/aboualezz.monah/Desktop/R/QProMS/renv/library/macos/R-4.4/x86_64-apple-darwin20/OmnipathR/db/db_def.json` (encoding: UTF-8).
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] Reading JSON from `/Users/aboualezz.monah/Desktop/R/QProMS/renv/library/macos/R-4.4/x86_64-apple-darwin20/OmnipathR/internal/magic_bytes.json` (encoding: UTF-8).
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] Reading JSON from `/Users/aboualezz.monah/Desktop/R/QProMS/renv/library/macos/R-4.4/x86_64-apple-darwin20/OmnipathR/internal/urls.json` (encoding: UTF-8).
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] JSON validation successful: TRUE
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] Reading JSON from `/Users/aboualezz.monah/Desktop/R/QProMS/renv/library/macos/R-4.4/x86_64-apple-darwin20/OmnipathR/internal/id_types.json` (encoding: UTF-8).
+[2024-07-15 16:14:55] [TRACE]   [OmnipathR] JSON validation successful: TRUE
